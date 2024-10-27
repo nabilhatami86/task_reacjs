@@ -26,7 +26,7 @@ export default class Bio extends React.Component {
                     <Container>
                         <p className='lead' style={{fontFamily:'monospace'}}> CTO & CO-Founder Eduwork</p>
                         <h1 className='display-4' style={{fontFamily:'fantasy'}}>Nabil Hatami</h1>
-                        <Button href='https://id.linkedin.com/' variant="outline-warning" className='mt-3' style={{border:'2px solid black', boxShadow: '0 4px 8px rgba(0, 0, 0, 0.2)' }}>
+                        <Button href='https://id.linkedin.com/' variant="outline-warning" className='mt-3' style={{border:'2px solid black', boxShadow: '0 4px 8px rgba(0, 0, 0, 0.2)', color: 'black' }}>
                             Lingkedin Profile
                         </Button>
                     </Container>
