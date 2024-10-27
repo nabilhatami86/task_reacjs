@@ -22,7 +22,7 @@ export default class Bio extends React.Component {
                     </Container>
                 </Navbar>
 
-                <section style={backgroungIMG} className='text-center py-5'>
+                <section id='home' style={backgroungIMG} className='text-center py-5'>
                     <Container>
                         <p className='lead' style={{fontFamily:'monospace'}}> CTO & CO-Founder Eduwork</p>
                         <h1 className='display-4' style={{fontFamily:'fantasy'}}>Nabil Hatami</h1>
